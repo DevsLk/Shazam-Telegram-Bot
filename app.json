@@ -7,20 +7,20 @@
         "music"
     ],
     "website": "https://paypal.me/AbhishekKumar1N47",
-    "repository": "https://github.com/PayForBotZ/Shazam-Telegram-Bot",
+    "repository": "https://github.com/DevsLk/Shazam-Telegram-Bot",
     "logo": "https://telegra.ph/file/dd2ad960662cc63e85977.jpg", 
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
-            "value": ""
+            "value": "5594463351:AAEtK2Ec2Qs50Nr3BZ9Ef94xHzmSxiqcuMU"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "1234567"
+            "value": "16884543"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "04fc2de75c898324561286e5b10bd619"
+            "value": "cc4535cefe1fa2e167d75a5e2ac24246"
         }
     },
     "addons": [],
